@@ -16,7 +16,7 @@
  <check class="org.scalastyle.scalariform.SpacesBeforePlusChecker" level="error" enabled="true"></check>
  <check class="org.scalastyle.file.FileLineLengthChecker" level="error" enabled="true">
   <parameters>
-   <parameter name="maxLineLength"><![CDATA[140]]></parameter>
+   <parameter name="maxLineLength"><![CDATA[150]]></parameter>
    <parameter name="tabSize"><![CDATA[2]]></parameter>
    <parameter name="ignoreImports"><![CDATA[true]]></parameter>
   </parameters>
