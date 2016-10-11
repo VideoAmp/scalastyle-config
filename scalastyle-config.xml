@@ -26,11 +26,6 @@
    <parameter name="regex"><![CDATA[[A-Z][A-Za-z]*]]></parameter>
   </parameters>
  </check>
- <check class="org.scalastyle.scalariform.ObjectNamesChecker" level="error" enabled="true">
-  <parameters>
-   <parameter name="regex"><![CDATA[[A-Z][A-Za-z]*]]></parameter>
-  </parameters>
- </check>
  <check class="org.scalastyle.scalariform.EqualsHashCodeChecker" level="error" enabled="false"></check>
  <check class="org.scalastyle.scalariform.IllegalImportsChecker" level="warning" enabled="false">
   <parameters>
